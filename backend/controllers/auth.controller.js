@@ -9,3 +9,5 @@ export const signup=async (req,res)=>{
 export const logout=async (req,res)=>{
     res.send('Log out route');
 }
+
+//this is to check the branch
